@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://komarev.com/ghpvc/?username=NeeRaj556&label=Profile%20views&color=0e75b6&style=flat" alt="NeeRaj556" />
 </p>
 
-*   🌍  I'm based in Nepal, Kavre, Banepa
 *   🖥️  See my portfolio at [NeeRaj556.com.np](http://NeeRaj556.com.np)
 *   ✉️  You can contact me at [niraj.bj85@gmail.com](mailto:niraj.bj85@gmail.com)
 *   🚀  I'm currently working on [Laravel](http://laravel.com/)
