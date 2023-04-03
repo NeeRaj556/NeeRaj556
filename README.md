@@ -87,9 +87,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ### Badges
-<a href="http://www.github.com/NeeRaj556">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeeRaj556&stroke=facc15&background=365314&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NeeRaj556&theme=tokyonight&border_radius=13.6&date_format=%5BY%20%5DM%20j&type=png)](https://git.io/streak-stats)
 
 <!-- ![image](https://github.com/whoami15/whoami15/blob/master/dino.gif) -->
 
