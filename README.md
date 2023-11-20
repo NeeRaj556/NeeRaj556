@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://komarev.com/ghpvc/?username=NeeRaj556&label=Profile%20views&color=0e75b6&style=flat" alt="NeeRaj556" />
 </p>
 
-*   🖥️  See my portfolio at [NeeRaj556.com.np](http://NeeRaj556.com.np)
+//*   🖥️  See my portfolio at [NeeRaj556.com.np](http://NeeRaj556.com.np)
 *   ✉️  You can contact me at [niraj.bj85@gmail.com](mailto:niraj.bj85@gmail.com)
 *   🚀  I'm currently working on [Laravel](http://laravel.com/)
 *   🧠  I'm learning Laravel With React
@@ -87,11 +87,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<a href="http://www.github.com/NeeRaj556">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeeRaj556&stroke=facc15&background=365314&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-</a>
 
 ### Support Me
-<a href="https://www.buymeacoffee.com/tm.NeeRaj556">
+<a href="https://www.buymeacoffee.com/bj.NeeRaj556">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
