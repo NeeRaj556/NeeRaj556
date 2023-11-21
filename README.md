@@ -56,32 +56,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 <p align="left">
-    <a href="https://discord.com/users/Aashish#6184" target="_blank" rel="noreferrer">
+    <a href="https://discord.com/users/#6184" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </a>
-    <a href="https://www.facebook.com/tm.aashish" target="_blank" rel="noreferrer">
+    <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
     </a>
     <a href="https://www.github.com/NeeRaj556" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
-    <a href="http://www.instagram.com/me.aaashish" target="_blank" rel="noreferrer">
+    <a href="http://www.instagram.com/bhas_masura125" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
-    <a href="https://www.linkedin.com/in/aashish-timalsina-4b8156206" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/bj.NeeRaj556" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
-    <a href="http://www.medium.com/@tm.NeeRaj556" target="_blank" rel="noreferrer">
+    <a href="http://www.medium.com/@bj.NeeRaj556" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
     </a>
-    <a href="https://www.stackoverflow.com/users/20666695/aashish-timalsina" target="_blank" rel="noreferrer">
+    <a href="https://www.stackoverflow.com/users/20666695/NeeRaj556" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.twitter.com/@NeeRaj556" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.youtube.com/@NeeRaj556" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </a>
 </p>
 
