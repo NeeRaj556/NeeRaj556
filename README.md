@@ -4,10 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=NeeRaj556&label=Profile%20views&color=0e75b6&style=flat" alt="NeeRaj556" />
 </p>
+*   🌍  I'm based in Nepal,
+*   ✉️  You can contact me at [niraj.bj85@gmail.com](mailto:niraj.bj85@gmail.com)
+*   🚀  I'm currently working on [Laravel](http://laravel.com/)
+*   🧠  I'm learning Flutter
+
 */  🖥️  See my portfolio at [NeeRaj556.com.np](http://NeeRaj556.com.np) 
 *   ✉️  You can contact me at [niraj.bj85@gmail.com](mailto:niraj.bj85@gmail.com)
 *   🚀  I'm currently working on [Laravel](http://laravel.com/)
-*   🧠  I'm learning Laravel With React
+*   🧠  I'm learning Flutter
 <a href="https://www.github.com/NeeRaj556" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/NeeRaj556?logo=github&style=for-the-badge&color=facc15&labelColor=365314" />
 </a>
