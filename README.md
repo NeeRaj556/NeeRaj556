@@ -77,7 +77,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="http://www.medium.com/@bj.NeeRaj556" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
     </a>
-    <a href="https://www.stackoverflow.com/users/20666695/NeeRaj556" target="_blank" rel="noreferrer">
+    <a href="https://stackoverflow.com/users/23004496/neeraj" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
     </a>
 </p>
