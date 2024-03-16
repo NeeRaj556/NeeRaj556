@@ -87,6 +87,9 @@ User
 
 <a href="http://www.github.com/NeeRaj556">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeeRaj556&stroke=facc15&background=365314&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=false" />
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=NeeRaj556&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeeRaj556&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 </a>
 
 ### Support Me
