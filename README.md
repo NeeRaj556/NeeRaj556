@@ -8,8 +8,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 *   🌍  I'm based in Nepal,
 *   ✉️  You can contact me at [niraj.bj85@gmail.com](mailto:niraj.bj85@gmail.com)
-*   🚀  I'm currently working on [Laravel](http://laravel.com/)
-*   🧠  I'm learning Flutter/React
+*   🚀  I'm currently working on [Laravel](http://laravel.com/)/React
+*   🧠  I'm learning Flutter
 
 
 <a href="https://www.github.com/NeeRaj556" target="_blank" rel="noreferrer">
