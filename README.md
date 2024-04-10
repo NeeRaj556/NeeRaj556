@@ -177,7 +177,8 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ### Support Me
 <a href="https://www.buymeacoffee.com/nirajbj853">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>&theme=react&hide_border=false)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeeRaj556&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
