@@ -82,10 +82,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     </a>
 </p>
 
-### Badges
-![](https://github-readme-stats.vercel.app/api?username=NeeRaj556&theme=react&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NeeRaj
-========================================================================================================================================
+
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=NeeRaj556&label=Profile%20views&color=0e75b6&style=flat" alt="NeeRaj556" />
@@ -173,13 +170,6 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NeeRaj556&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeeRaj556&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-### Support Me
-<a href="https://www.buymeacoffee.com/nirajbj853">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeeRaj556&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ### Support Me
