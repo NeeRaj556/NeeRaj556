@@ -87,5 +87,5 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ### Support Me
 <a href="https://buymeacoffee.com/nirajbj54d">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="201" />
 </a>
