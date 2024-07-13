@@ -6,7 +6,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     </p> -->
     CSIT student at NIST College Banepa.
 
-*   🌍  I'm based in Nepal, 
+*   🌍  I'm based in Nepal
 <!-- *   🖥️  See my portfolio at [NeeRaj556.com.np](http://NeeRaj556.com.np) -->
 <!-- *   ✉️  You can contact me at [tm.aashish1@gmail.com](mailto:tm.aashish1@gmail.com) -->
 *   🔭  I’m currently working on Laravel, React 
@@ -87,5 +87,5 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ### Support Me
 <a href="https://buymeacoffee.com/nirajbj54d">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="201" />
 </a>
