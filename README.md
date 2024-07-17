@@ -13,7 +13,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 *   👯  I’m looking to collaborate on open-source projects related to web development
 *   🤝  I’m looking for help with mastering advanced concepts in Laravel
 *   🌱  I’m currently learning Flutter
-<!-- *   💬  Ask me about my experience with web development technologies -->
+<!-- *   💬  Ask me about my experience with web development technologies s-->
 <!-- *   ⚡  Fun fact: I enjoy hiking and exploring new places in my free time! -->
 
 <a href="https://www.github.com/NeeRaj556" target="_blank" rel="noreferrer">
