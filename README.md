@@ -4,7 +4,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=NeeRaj556&label=Profile%20views&color=0e75b6&style=flat" alt="neeRaj" />
     </p> -->
-    CSIT student at NIST College Banepa.
+    CSIT student at NIST College Banepa ...
 
 *   🌍  I'm based in Nepal
 <!-- *   🖥️  See my portfolio at [NeeRaj556.com.np](http://NeeRaj556.com.np) -->
