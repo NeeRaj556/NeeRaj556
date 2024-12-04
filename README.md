@@ -7,7 +7,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     CSIT student at NIST College Banepa ...
 
 *   🌍  I'm based in Nepal
-  🖥️  See my portfolio at [nirajbajagain.me](http://nirajbajagain.me)  
+*   🖥️  See my portfolio at [nirajbajagain.me](http://nirajbajagain.me)  
 <!-- *   ✉️  You can contact me at [tm.aashish1@gmail.com](mailto:tm.aashish1@gmail.com) -->
 *   🔭  I’m currently working on Laravel, React 
 *   👯  I’m looking to collaborate on open-source projects related to web development
