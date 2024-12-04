@@ -12,7 +12,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 *   🔭  I’m currently working on Laravel, React 
 *   👯  I’m looking to collaborate on open-source projects related to web development
 *   🤝  I’m looking for help with mastering advanced concepts in Laravel
-*   🌱  I’m currently learning Flutter
+*   🌱  I’m currently learning RUST
 <!-- *   💬  Ask me about my experience with web development technologies s-->
 <!-- *   ⚡  Fun fact: I enjoy hiking and exploring new places in my free time! -->
 
