@@ -44,7 +44,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36"                    alt="Laravel" />
     </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36"                    alt="Flutter" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36"                    alt="Flutter" />
 </a>
  <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="36" alt="Arch Linux"/>
