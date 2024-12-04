@@ -8,7 +8,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 *   🌍  I'm based in Nepal
 *   🖥️  See my portfolio at [nirajbajagain.me](http://nirajbajagain.me)  
-<!-- *   ✉️  You can contact me at [tm.aashish1@gmail.com](mailto:tm.aashish1@gmail.com) -->
+*   ✉️  You can contact me at [niraj.bj54@gmail.com](mailto:niraj.bj54@gmail.com) 
 *   🔭  I’m currently working on Laravel, React 
 *   👯  I’m looking to collaborate on open-source projects related to web development
 *   🤝  I’m looking for help with mastering advanced concepts in Laravel
